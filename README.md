@@ -25,13 +25,10 @@
   <img height="180" src="https://streak-stats.demolab.com?user=I0ceq&hide_border=true&border_radius=12&background=161b22&stroke=30363d&ring=ff4fa3&fire=ff4fa3&currStreakNum=ffffff&currStreakLabel=ff4fa3&sideNums=ff4fa3&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
 </p>
 
-## 🐍 Contributions
+## 💻 Terminal
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/I0ceq/I0ceq/output/snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/I0ceq/I0ceq/output/snake.svg" alt="Contribution Snake" />
-  </picture>
+  <img src="terminal.svg" width="700" alt="whoami: Ioceq, Developer" />
 </p>
 
 <!-- Footer -->
